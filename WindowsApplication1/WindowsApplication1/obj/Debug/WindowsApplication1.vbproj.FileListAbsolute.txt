@@ -1,1 +1,10 @@
 d:\git\calculator\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+d:\git\calculator\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+d:\git\calculator\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+d:\git\calculator\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+d:\git\calculator\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+d:\git\calculator\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+d:\git\calculator\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+d:\git\calculator\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+d:\git\calculator\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+d:\git\calculator\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
